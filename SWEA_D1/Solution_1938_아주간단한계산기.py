@@ -1,0 +1,5 @@
+a = list(map(int,input().split(" ")))
+print(sum(a))
+print(a[0]-a[1])
+print(a[0]*a[1])
+print("%d"%(a[0]/a[1]))
