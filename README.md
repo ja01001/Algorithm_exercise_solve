@@ -1,7 +1,23 @@
 # Algorithm_exercise_solve
 ## SWexpert Academy
-> [Link](https://swexpertacademy.com/)
+> [SWEA](https://swexpertacademy.com/)
 ## 정보올림피아드
-> [Link](http://www.jungol.co.kr//)
+> [Jungol](http://www.jungol.co.kr//)
 ## 백준 
-> [Link](https://www.acmicpc.net/)
+> [BOJ](https://www.acmicpc.net/)
+
+
+### file roles 
+> 1. SWEA
+>> File Name : Solution_문제번호_문제이름 
+>> 문제를 검색한 링크를 문서로 작성
+> 2. Jungol 
+>> File Name : Main_정올_문제번호_문제이름 
+> 3. BOJ 
+>> File Name : Main_백준_문제번호_문제이름 
+
+> 공통사항
+>> Java 코드를 기본으로 중간중간 python 코드가 존재 
+>> (SWEA를 제외한 )문제에 대한 링크는 해당 디렉토리의 문서로 존재 
+>> 리팩토링 되어 있는 문제풀이는 아님 
+>> 주석이 모두 존재하는 것은 아님

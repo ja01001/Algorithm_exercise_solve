@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class Solution_2056_연월일달력{
-	// modular 7 과 관련된 문제 ! 
 	public static void main(String[] args) throws Exception{
         Scanner sc =new Scanner(System.in);
         int T = Integer.parseInt(sc.nextLine());
@@ -20,7 +19,7 @@ public class Solution_2056_연월일달력{
             else if(((t==4)||(t ==6)||(t ==9)||(t ==11))&&tcs>30)tr = false;
 			else if((t==2)&&tcs>28) tr = false;
             if (tr) System.out.println("#"+tc+" "+res);
-           else System.out.println("#"+tc+" "+"-1");
+            else System.out.println("#"+tc+" "+"-1");
 	    }
         sc.close();
     }
