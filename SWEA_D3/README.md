@@ -6,4 +6,14 @@
 5. [1289 원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=1289&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
 6. [4406 모음이 보이지 않는 사람](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=4406&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
 7. [1225 [S/W 문제해결 기본] 7일차 - 암호생성기](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=1225&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
-
+8. [6730 장애물경주난이도](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=6730&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+9. [5601 [Professional] 쥬스 나누기](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=5601&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+10. [1216 [S/W문제해결기본] 3일차 - 회문2](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=1216&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+11. [1234 [S/W문제해결기본] 10일차 - 비밀번호](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=1234&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+12. [1213 [S/W문제해결기본] 3일차 - String](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=1213&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+13. [7728 다양성 측정 ](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=7728&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+14. [6958 동철이의 프로그래밍 대회](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=6958&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+<!-- 15. [](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=6730&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+16. [](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=6730&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+17. [](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=6730&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1)
+18. [](https://swexpertacademy.com/main/code/problem/problemList.do?problemTitle=6730&orderBy=FIRST_REG_DATETIME&select-1=&pageSize=10&pageIndex=1) -->
